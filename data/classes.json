@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "1",
+    "Name": "Java Programming Languages",
+    "TotalHours": 85,
+    "MaxStds" : 30
+  },
+  {
+    "ID": "2",
+    "Name": "PHP Programming Languages",
+    "TotalHours": 85,
+    "MaxStds" : 30
+  },
+  {
+    "ID": "3",
+    "Name": "JavaScript Courses",
+    "TotalHours": 85,
+    "MaxStds" : 30
+  },
+  {
+    "ID": "4",
+    "Name": "Front End ",
+    "TotalHours": 85,
+    "MaxStds" : 30
+  },
+  {
+    "ID": "5",
+    "Name": "Software Security",
+    "TotalHours": 85,
+    "MaxStds" : 30
+  }
+]
